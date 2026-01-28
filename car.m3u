@@ -1,0 +1,242 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es.xml"
+
+#EXTINF:-1 tvg-id="abcnews.au" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/abc.jpg" group-title="News",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1 tvg-id="abcnewslive.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/abc.jpg" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="adventureearth.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/adventure.jpg" group-title="Lifestyle",Adventure Earth
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="afv.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/afv.jpg" group-title="Lifestyle",AFV
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="aljazeera.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/aljazeera.jpg" group-title="News",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/amc.jpg" group-title="Movies",AMC
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 tvg-id="history.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/history.jpg" group-title="Lifestyle",American Pickers
+https://jmp2.uk/stvp-CA1400014EH
+#EXTINF:-1 tvg-id="atk.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/atk.jpg" group-title="Lifestyle",America's Test Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/animal.jpg" group-title="Lifestyle",Animal Planet
+http://cord-cutter.net:8080/live/JoanP@112/443@112/17870.ts
+#EXTINF:-1 tvg-id="arirang.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/arirang.jpg" group-title="Lifestyle",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/awani.jpg" group-title="News",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcamerica.jpg" group-title="Lifestyle",BBC America
+http://cord-cutter.net:8080/live/JoanP@112/443@112/20194.ts
+#EXTINF:-1 tvg-id="bbcearth.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcearth.jpg" group-title="Lifestyle",BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 tvg-id="bbcfood.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcfood.jpg" group-title="Lifestyle",BBC Food
+https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcnews.jpg" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="bbcstudion.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcstudios.jpg" group-title="Lifestyle",BBC Top Gear
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="beritasatu.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/b1news.jpg" group-title="News",Berita Satu
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="biography.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/biography.jpg" group-title="Lifestyle",Biography The Icons
+https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US26000201N
+#EXTINF:-1 tvg-id="bonappetit.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ba.jpg" group-title="Lifestyle",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="brattv.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/brat.jpg" group-title="Movies",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="btv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/btv.jpg" group-title="News",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="cctv5.cn" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cctv5.jpg" group-title="Sports",CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="cctv5p.cn" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cctv5p.jpg" group-title="Sports",CCTV 5+
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="cbsnews.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cbs.jpg" group-title="News",CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+#EXTINF:-1 tvg-id="cbssports.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cbssports.jpg" group-title="Sports",CBS Sports
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:-1 tvg-id="cgtn.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cgtn.jpg" group-title="News",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="cgtndoc.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cgtndoc.jpg" group-title="Lifestyle",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="cinelife.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cinelife.jpg" group-title="Movies",Cinelife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cna.jpg" group-title="News",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="cnbcindonesia.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cnbc.jpg" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1 tvg-id="cnnindonesia.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cnn.jpg" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cnn.jpg" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cc.jpg" group-title="Movies",Comedy Central
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=fa71f0d9-9426-11f0-b721-d239d12cf6d5
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cookingch.jpg" group-title="Lifestyle",Cooking Channel
+http://cord-cutter.net:8080/live/JoanP@112/443@112/9229.ts
+#EXTINF:-1 tvg-id="cookingpanda.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cookingpanda.jpg" group-title="Lifestyle",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-id="discovery.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/discovery.jpg" group-title="Lifestyle",Discovery
+http://tkosportz.live:25461/folalawal@/4044225438/10388
+#EXTINF:-1 tvg-id="discoveryid.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/discid.jpg" group-title="Lifestyle",Discovery ID
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46810.ts
+#EXTINF:-1 tvg-id="discoverylife.pl" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/disclife.jpg" group-title="Lifestyle",Discovery Life
+http://cord-cutter.net:8080/live/JoanP@112/443@112/9861.ts
+#EXTINF:-1 tvg-id="disscience.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/dscience2.jpg" group-title="Lifestyle",Discovery Science
+http://tkosportz.live:25461/folalawal@/4044225438/10389
+#EXTINF:-1 tvg-id="doc.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/doc.jpg" group-title="Lifestyle",Doc+
+https://d1m3onyj8k8btx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-51sz7lei1ddj6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=CABC2300019UD
+#EXTINF:0 tvg-id="dwnews.eu" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/dw.jpg" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="euronews.eu" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/euronews.jpg" group-title="News",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+#EXTINF:-1 tvg-id="failarmy.it" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/failarmy.jpg" group-title="Lifestyle",Fail Army
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/fn.jpg" group-title="Lifestyle",Food Network
+http://cord-cutter.net:8080/live/JoanP@112/443@112/7323.ts
+#EXTINF:-1 tvg-id="foxnews.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/foxnews.jpg" group-title="News",Fox News Live Now
+https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+#EXTINF:-1 tvg-id="france24english.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/france24.jpg" group-title="News",France24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/gbnews.jpg" group-title="News",GB News
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
+#EXTINF:-1 tvg-id="globalnews.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/globalnews.jpg" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/gtv.jpg" group-title="Movies",GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1 tvg-id="gustotv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/gusto.jpg" group-title="Lifestyle",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="hgtv.nz" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hgtv.jpg" group-title="Lifestyle",HGTV
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+#EXTINF:-1 tvg-id="hiyah.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hiyah.jpg" group-title="Movies",Hi-yah!
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="i24.en" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/i24.jpg" group-title="News",i24 News
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="ifc.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ifc.jpg" group-title="Movies",IFC Films
+https://bit.ly/3T2BL51?5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/inews.jpg" group-title="News",iNews
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 tvg-id="inwild.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/inwild.jpg" group-title="Lifestyle",Inwild
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="inwonder.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/inwonder.jpg" group-title="Lifestyle",Inwonder
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ion.jpg" group-title="Movies",Ion Mystery
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/kompastv.jpg" group-title="News",Kompas TV
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
+#EXTINF:-1 tvg-id="lovenature.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/love.jpg" group-title="Lifestyle",Love Nature
+https://bit.ly/3HNWe8N?profile=5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:-1 tvg-id="lovetp.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/lovetp.jpg" group-title="Lifestyle",Love The Planet
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="metrotv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/metrotv.jpg" group-title="News",Metro TV
+http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
+#EXTINF:-1 tvg-id="miramax.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/miramax.jpg" group-title="Movies",Miramax
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/mnctv.jpg" group-title="News",MNC TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1 tvg-id="motorhead.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/wb.jpg" group-title="Sports",Motor Head
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="motorracing.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/mracing.jpg" group-title="Sports",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 tvg-id="motorvision.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/mvision.jpg" group-title="Sports",Motorvision
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-id="moviesphere.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/movie.jpg" group-title="Movies",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nationallampoon.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/lampoon.jpg" group-title="Movies",National Lampoon
+https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="naturetime.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/nature.jpg" group-title="Lifestyle",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8 
+#EXTINF:-1 tvg-id="natgeo.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/natgeo.jpg" group-title="Lifestyle",Nat Geo
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46722.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ngw.jpg" group-title="Lifestyle",Nat Geo Wild
+http://cord-cutter.net:8080/live/JoanP@112/443@112/11664.ts
+#EXTINF:-1 tvg-id="nbcnewsnow.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/nbc.jpg" group-title="News",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="newsmax.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/newsmax.jpg" group-title="News",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="nhkworld.jp" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/nhk.jpg" group-title="News",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/nick.jpg" group-title="Movies",Nickelodeon
+http://cord-cutter.net:8080/live/JoanP@112/443@112/38.ts
+#EXTINF:-1 tvg-id="now80s.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/now80.jpg" group-title="Lifestyle",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now90s.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/now90.jpg" group-title="Lifestyle",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="oan.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/oan.jpg" group-title="News",One American Network
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="outdoor.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/outdoor.jpg" group-title="Lifestyle",Outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="outersphere.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/outer.jpg" group-title="Movies",Outer Sphere
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-id="paa.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/paa.jpg" group-title="Lifestyle",People Are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pluto.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/pluto.jpg" group-title="Movies",Pluto TV Action
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-id="pluto.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/pluto.jpg" group-title="Movies",Pluto TV Comedy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1 tvg-id="realwild.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/realwild.jpg" group-title="Lifestyle",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="redbull.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/redbull.jpg" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="reuters.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/reuters.jpg" group-title="News",Reuters
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/rtv.jpg" group-title="Movies",RTV
+http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+#EXTINF:-1 tvg-id="showtime.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/showtime.jpg" group-title="Movies",Showtime
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46214.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/showtime.jpg" group-title="Movies",Showtime 2
+http://cord-cutter.net:8080/live/JoanP@112/443@112/13219.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/showtime.jpg" group-title="Movies",Showtime Extreme
+http://cord-cutter.net:8080/live/JoanP@112/443@112/13220.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/sky.jpg" group-title="News",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="smithsonian.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/smithsonian.jpg" group-title="Lifestyle",Smithsonian
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+#EXTINF:-1 tvg-id="sparklemovies.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/sparkle.jpg" group-title="Movies",Sparkle Movies
+https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/starz.jpg" group-title="Movies",STARZ
+http://cord-cutter.net:8080/live/JoanP@112/443@112/9299.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/starz.jpg" group-title="Movies",STARZ Comedy
+http://cord-cutter.net:8080/live/JoanP@112/443@112/17775.ts
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTINF:-1 tvg-id="sukanrtm.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/sukan.jpg" group-title="Sports",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/syfy.jpg" group-title="Movies",SyFy
+http://cord-cutter.net:8080/live/JoanP@112/443@112/46685.ts
+#EXTINF:-1 tvg-id="taiwanplus.tw" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/taiwan.jpg" group-title="News",Taiwan+ TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="tastemade.en" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tastemade.jpg" group-title="Lifestyle",Tastemade
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="tastemade.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tastemade.jpg" group-title="Lifestyle",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="tastemade.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tastemade.jpg" group-title="Lifestyle",Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="tastemade.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tastemade.jpg" group-title="Lifestyle",Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/trans7.jpg" group-title="News",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/transtv.jpg" group-title="News",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="travelxp.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/travel.jpg" group-title="Lifestyle",Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="trtworld.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/trt.jpg" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tv5monde.it" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tv5monde.jpg" group-title="Lifestyle",TV5 Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="tv5monde.it" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tv5monde.jpg" group-title="Lifestyle",TV5 Monde Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="tvri.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tvri.jpg" group-title="News",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="tvrisport.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tvrisport.jpg" group-title="Sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="tvriworld.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/tvriworld.jpg" group-title="News",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="usatoday.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/usatoday.jpg" group-title="News",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="watchmojo.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/watchmojo.jpg" group-title="Movies",Watchmojo
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="weatherspy.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ws.jpg" group-title="Lifestyle",Weather Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="wion.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/wion.jpg" group-title="News",WION
+https://news.udx.workers.dev/wion/index.m3u8
+#EXTINF:-1 tvg-id="Wonder.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/wonder.jpg" group-title="Lifestyle",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="xplore.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/xplore.jpg" group-title="Lifestyle",Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="yahoofinance.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/yahoo.jpg" group-title="News",Yahoo Finance
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8
