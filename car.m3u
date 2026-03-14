@@ -41,6 +41,10 @@ http://cord-cutter.net:8080/live/JoanP@112/443@112/20194.ts
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
 #EXTINF:-1 tvg-id="bbcearth.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcearth.jpg" group-title="Lifestyle",BBC Earth
 https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
+#EXTINF:-1 tvg-id="bbcstudion.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcstudios.jpg" group-title="Lifestyle",BBC Entertaintment
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
 #EXTINF:-1 tvg-id="bbcfood.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcfood.jpg" group-title="Lifestyle",BBC Food
 https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcnews.jpg" group-title="News",BBC News
@@ -153,8 +157,8 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/fn.jpg" group-title="Lifestyle",Food Network
 http://cord-cutter.net:8080/live/JoanP@112/443@112/7323.ts
-#EXTINF:-1 tvg-id="foxnews.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/foxnews.jpg" group-title="News",Fox News Live Now
-https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+#EXTINF:-1 tvg-id="foxnews.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/foxnews.jpg" group-title="News",Fox LiveNow
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="france24english.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/france24.jpg" group-title="News",France24
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,8 +199,8 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 #EXTINF:-1 tvg-id="hbozone.mx" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hbozone.jpg" group-title="Movies",HBO Zone
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-#EXTINF:-1 tvg-id="hgtv.nz" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hgtv.jpg" group-title="Lifestyle",HGTV
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
+#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hgtv.jpg" group-title="Lifestyle",HGTV
+http://84.17.50.102/hgtv/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 #EXTINF:-1 tvg-id="history.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/history.jpg" group-title="Lifestyle",History
@@ -332,8 +336,6 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="outersphere.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/outer.jpg" group-title="Movies",Outer Sphere
 https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
-#EXTINF:-1 tvg-id="paramount.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/paramount.jpg" group-title="Movies",Paramount Network
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="paa.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/paa.jpg" group-title="Lifestyle",People Are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
