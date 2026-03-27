@@ -39,6 +39,8 @@ https://jmp2.uk/stvp-CA1400014EH
 http://cord-cutter.net:8080/live/JoanP@112/443@112/17870.ts
 #EXTINF:-1 tvg-id="arirang.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/arirang.jpg" group-title="Lifestyle",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="asiancrush.sg" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/asiancrush.jpg" group-title="Movies",Asian Crush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/awani.jpg" group-title="News",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcamerica.jpg" group-title="Lifestyle",BBC America
@@ -54,7 +56,7 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/
 #EXTINF:-1 tvg-id="bbcfood.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcfood.jpg" group-title="Lifestyle",BBC Food
 https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
 #EXTINF:-1 tvg-id="bbclifestyle.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbclifestyle.jpg" group-title="Lifestyle",BBC Lifestyle
-https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcnews.jpg" group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="bbcstudion.uk" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bbcstudios.jpg" group-title="Lifestyle",BBC Top Gear
@@ -63,6 +65,10 @@ https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="biography.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/biography.jpg" group-title="Lifestyle",Biography The Icons
 https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0b4k8pos9f7h8/Lights_Legends_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US26000201N
+#EXTINF:-1 tvg-id="bloombergasia.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bloombergasia.jpg" group-title="News",Bloomberg Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="bloombergori.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/bloombergori.jpg" group-title="Lifestyle",Bloomberg Originals
+https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="boomerang.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/boomerang.jpg" group-title="Movies",Boomerang
 http://cord-cutter.net:8080/live/JoanP@112/443@112/14741.ts
 #EXTINF:-1 tvg-id="bonappetit.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/ba.jpg" group-title="Lifestyle",Bon Appétit
@@ -84,8 +90,12 @@ https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="cgtndoc.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cgtndoc.jpg" group-title="Lifestyle",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="chefroc.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/chefroc.jpg" group-title="Lifestyle",Chef Roc
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 #EXTINF:-1 tvg-id="cinelife.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cinelife.jpg" group-title="Movies",Cinelife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="cloudflare.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/cloudflare.jpg" group-title="Lifestyle",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -185,6 +195,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
 #EXTINF:-1 tvg-id="globalnews.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/globalnews.jpg" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="gusto.nz" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/gusto.jpg" group-title="Lifestyle",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/hbo.jpg" group-title="Movies",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -304,6 +316,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="msnbc.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/msnbc.jpg" group-title="News",MSNBC
 http://mytvstream.net:8080/live/30550113/30550113/9296.m3u8
+#EXTINF:-1 tvg-id="mysteriesx.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/mysteriesx.jpg" group-title="Lifestyle",Mysteries Xplored
+https://jmp2.uk/stvp-USBB5200028MM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
 #EXTINF:-1 tvg-id="mysterious.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/wb.jpg" group-title="Lifestyle",Mysterious Worlds
@@ -477,8 +491,6 @@ https://news.udx.workers.dev/wion/index.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="xplore.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/xplore.jpg" group-title="Lifestyle",Xplore
 https://xplore-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="yahoofinance.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/yahoo.jpg" group-title="News",Yahoo Finance
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-samsungyahoofinance/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
