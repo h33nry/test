@@ -19,6 +19,11 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 #EXTINF:-1 tvg-id="adventureearth.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/adventure.jpg" group-title="Lifestyle",Adventure Earth
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="afn.ph" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/afn.jpg" group-title="Lifestyle",AFN
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="afv.us" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/afv.jpg" group-title="Lifestyle",AFV
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="aljazeera.id" tvg-logo="https://raw.githubusercontent.com/h33nry/logo/main/aljazeera.jpg" group-title="News",Al Jazeera
